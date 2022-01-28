@@ -1,0 +1,97 @@
+Welcome to University Utara Malaysia Library.
+This system will lead you to our University Library Management System.
+Please press anything and enter to register yourslef.
+1
+Welcome to the University Library Management System.
+Please enter your personal information to proceed to borrow a book.
+Please enter your name: Anuarul Irfan Bin Mohd Sofian
+Please enter your Matric id: 288181
+Please enter your age: 20
+Please enter your current semester: Semester 1
+ 
+============================================================================================================================== 
+Thank you for your registeration.
+Next, the system will bring you to Library Borrow System.
+Please press '1' if you want to borrow books. Press '2' if you want to return a book.
+1
+ 
+============================================================================================================================== 
+Welcome to Library Borrow System.
+There are  10000 books that students can borrow
+How many books do you want to borrow? (maximum books that can be borrow = 5)
+3
+Enter the name of books you want to borrow 
+Mathematic-TextBook
+Please enter the date of issuing following date of return.
+Date of issuing:
+30/1/2022
+Date of return:
+2/2/2022
+ 
+Enter the name of books you want to borrow 
+English-TextBook
+Please enter the date of issuing following date of return.
+Date of issuing:
+30/1/2022
+Date of return:
+2/2/2022
+ 
+Enter the name of books you want to borrow 
+History-TextBook
+Please enter the date of issuing following date of return.
+Date of issuing:
+30/1/2022
+Date of return:
+2/2/2022
+ 
+We will display back the books that you borrowed for your confirmation.
+Please press anything and enter to proceed
+1
+Borrowed Books: Mathematic-TextBook
+Date of issuing: 30/1/2022
+Date of return: 2/2/2022
+
+Borrowed Books: English-TextBook
+Date of issuing: 30/1/2022
+Date of return: 2/2/2022
+
+Borrowed Books: History-TextBook
+Date of issuing: 30/1/2022
+Date of return: 2/2/2022
+
+ 
+============================================================================================================================== 
+ 
+Next we will explain about the fine system for books that returned overdue the date and the condition of it.
+Fine will be given if students return the books past date of return 
+The amount of fix fined is RM 1.00
+
+                Days after date of return           Fine                 Total to be paid 
+                        1                           RM1 X 1              RM1.00           
+                        2                           RM1 X 2              RM2.00           
+                        3                           RM1 X 3              RM4.00           
+                        4                           RM1 X 4              RM4.00           
+                        5                           RM1 X 5              RM5.00           
+ 
+
+
+
+
+
+
+
+After 5 days past the date of return, students will be reprimanded and blacklist for borrowing books from the library
+ 
+Students will also be given fine if the condition of the books are damaged
+The fine will be calculated based on the number of pages 
+ 
+                 Number of pages                    Fine                
+                 Less than 30                       RM30.00                         
+                 Between 30 and 80                  RM40.00                         
+                 Between 80 and 150                 RM50.00                         
+                 More than 150                      RM80.00                         
+ 
+============================================================================================================================== 
+Thank you for using the University Library Management Sytsem 
+There are  9997 books remaining in the library
+Have a nice day! 
