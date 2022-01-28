@@ -1,0 +1,52 @@
+This Welcome to University Utara Malaysia Library.
+system will lead you to our University Library Management System.
+Please press anything and enter to register yourslef.
+1
+Welcome to the University Library Management System.
+Please enter your personal information to proceed to borrow a book.
+Please enter your name: Anuarul Irfan Bin Mohd Sofian
+Please enter your Matric id: 288181
+Please enter your age: 20
+Please enter your current semester: Semester 1
+ 
+============================================================================================================================== 
+Thank you for your registeration.
+Next, the system will bring you to Library Borrow System.
+Please press '1' if you want to borrow books. Press '2' if you want to return a book.
+2
+ 
+============================================================================================================================== 
+Welcome to Library Borrow System.
+Welcome to the Return Book system.
+Please enter the book that you want to return.
+Mathematic-TextBook
+ 
+Press '1' to add  another book that you want to return. Press any number to proceed.
+1
+Please enter the book that you want to return.
+English-TextBook
+Press '1' to add  another book that you want to return. Press any number to proceed.
+1
+ 
+Please enter the book that you want to return.
+History-TextBook
+Press '1' to add  another book that you want to return. Press any number to proceed.
+2
+ 
+ 
+Did you returned the book past the date return? Press '1' if yes and any number if no.
+1
+How many days has past after the date of return?
+3
+Fine given will be: RM4.00
+ 
+Did the book you returned in its normal condition? Press '1' if yes and any number if no.
+1
+How many pages of the book that been damaged?
+50
+Fine given will be: RM40.00
+ 
+============================================================================================================================== 
+Thank you for returning the books.
+Thank you for using the University Library Management Sytsem 
+
